@@ -2,7 +2,9 @@ table {
     border-collapse: collapse;
 }
 
-
+th{
+    background-color: lightgray;
+}
 
 table, td, th, tr {
     border: 2px solid;
